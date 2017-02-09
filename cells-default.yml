@@ -8,7 +8,7 @@ default:
   board:
     ncells: 69
     dice: 6
-    okaGap: 8
+    okaGap: 4
     levels:
       - 14
       - 14
